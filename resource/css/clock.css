@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#analog-clock{
+	position:relative;
+	width:200px;
+	display:none;/* to make it start hidden, then fade in */
+
+}
+
+#analog-clock #bg, #hourHand, #minuteHand, #secondHand{
+	position:absolute;
+		
+}

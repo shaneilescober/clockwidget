@@ -1,0 +1,25 @@
+.pg_worldtimezone_wrap * {margin:0;padding:0;}
+.pg_worldtimezone_wrap {background:url(../images/blue/pg_worldtimezone_bg1.jpg) no-repeat top;width:260px;font-size:12px;font-family:Arial, Helvetica, sans-serif;display:inline-block;margin-bottom:25px;}
+.pg_worldtimezone_wrap h4 {font-size:12px;font-weight:12px;display:inline;color:#fff;height:34px;line-height:34px;background:url(../images/blue/pg_worldtimezone_bullet.gif) no-repeat right;padding-left:10px;padding-right:10px;}
+.pg_worldtimezone_wrap a {text-decoration:none;color:#999;}
+.pg_worldtimezone_wrap .note {font-size:11px;margin:0px;padding:10px;}
+.pg_worldtimezone_wrap .pg_worldtimezone_content {display:hidden;background:url(../images/blue/pg_worldtimezone_bg1.jpg) no-repeat bottom;padding-bottom:10px;width:260px;display:inline-block}
+.pg_worldtimezone_wrap .pg_worldtimezone_info {position:relative;}
+.pg_worldtimezone_wrap .pg_worldtimezone_info {overflow:hidden;width:230px;padding:5px 5px 0px 5px !important;margin:10px 0 0 -5px !important;font-size:10px;text-align:center;}
+.pg_worldtimezone_wrap .pg_worldtimezone_prev {position:absolute;left:0;top:0;margin-top:60px;margin-left:30px;}
+.pg_worldtimezone_wrap .pg_worldtimezone_next {position:absolute;right:0;top:0;margin-top:60px;margin-right:30px;}
+.pg_worldtimezone_wrap .pg_worldtimezone {font-size:12px;font-weight:bold;color:#333}
+.pg_worldtimezone_wrap .pg_worldtimezone_info strong {font-size:25px;color:#333;}
+.pg_worldtimezone_wrap .time_area .pg_worldtimezone_info  p {color:#686868;}
+.pg_worldtimezone_wrap .pg_worldtimezone_details  {list-style:none;width:239px;margin-top:10px !important;padding:5px 10px 0 10px !important;max-height:300px;overflow:auto;}
+.pg_worldtimezone_wrap .pg_worldtimezone_details li {border-bottom:1px solid #e7e7e7;font-size:11px;line-height:22px;display:inline-block}
+.pg_worldtimezone_wrap .pg_worldtimezone_details li .pg_desc {float:left;width:200px;background:url(../images/blue/pg_worldtimezone_bullet1.jpg) no-repeat left;padding-left:8px !important;color:#999}
+.pg_worldtimezone_wrap .pg_worldtimezone_details li .pg_details {background:url(../images/blue/pg_worldtimezone_sep.jpg) no-repeat left;padding-left:8px !important;color:#333}
+.pg_worldtimezone_wrap .pg_worldtimezone_details li .pg_time {border-bottom:0 !important;font-size:10px;color:#999;line-height:14px;text-align:right;}
+.pg_worldtimezone_wrap .pg_worldtimezone_more {float:right;margin-top:5px;margin-bottom:-5px;margin-right:10px;color:#568ee1;text-decoration:none;display:none;font-size:11px;cursor:pointer;}
+.pg_worldtimezone_wrap .pg_worldtimezone_more small {float:left;margin-top:0px;margin-right:3px;}
+.pg_worldtimezone_wrap .pg_worldtimezone_search {margin-left:5px;margin-top:5px;padding:0 5px 0px 5px;display:inline-block}
+.pg_worldtimezone_wrap .pg_worldtimezone_searchbox {float:left;width:189px;height:21px;background:url(../images/pg_worldtimezone_search_box.gif) left top no-repeat}
+.pg_worldtimezone_wrap .pg_worldtimezone_searchbox input {width:179px;height:17px;margin-top:2px;margin-right:5px;margin-left:5px;font:10px Arial, Helvetica, sans-serif;color:#777;border:0;outline:0}
+.pg_worldtimezone_wrap .pg_worldtimezone_searchbtn {float:left;width:43px;height:21px;margin-left:5px;background:url(../images/pg_worldtimezone_search_btn.gif) left top no-repeat;border:0;outline:0;cursor:pointer}
+.pg_worldtimezone_wrap .pg_worldtimezone_result {display:inline-block;margin-top:5px !important;padding:5px 10px 0 10px !important;font-size:10px;}

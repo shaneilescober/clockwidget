@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+/* \*/
+* html  .template_setting {display:block;float:left;width:800px;padding:5px 0;font-size:12px;}
+* html  .template_setting .template_icon			{float:left;width:204px;padding-right:10px;height:180px;border:1px solid red !important;}
+* html  .template_setting .template_icon label	{vertical-align:top;margin-right:15px;}
+* html  .template_setting .template_icon img		{width:204px;height:160px;vertical-align:top;display:block;margin:10px 30px 0 0;}
+* html  .template_setting .labels 			{display:inline-block;padding-right:18px;}
+/* */

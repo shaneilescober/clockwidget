@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codehint>
+    <var value="clock1" name="Contains the implementation of the first clock image"></var>
+    <var value="clock2" name="Contains the implementation of the second clock image"></var>
+    <var value="location1" name="Shows location for first clock"></var>
+    <var value="location2" name="Shows location for second clock"></var>
+    <var value="date1" name="Shows date of first clock"></var>
+    <var value="date2" name="Shows date of second clock"></var>
+</codehint>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application>
+    <langs support="en" default="en"></langs>
+    <api use="on">
+        <ifs>
+            <if class="apiBuilderLib" permission="off" desc="Api for the builder library"></if>
+            <if class="apiGetSetting" permission="off" desc="Api for getting settings of front"></if>
+            <if class="apiGetTimezone" permission="off" desc="Api for getting timezone of specified country"></if>
+        </ifs>
+    </api>
+    <admin use="on" index="adminPageWorldClock">
+        <ifs>
+            <if class="adminExecWorldClock" permission="off" desc="Add logic"></if>
+            <if class="adminPageSettings" permission="off" desc="Settings page"></if>
+            <if class="adminPageManage" permission="off" desc="Sequence manage page"></if>
+        </ifs>
+        <menus>
+        </menus>
+    </admin>
+    <front use="on">
+        <ifs>
+            <if class="frontPageClockWidget" permission="off" code-assist="on" desc="Detail block"></if>
+        </ifs>
+    </front>
+</application>
